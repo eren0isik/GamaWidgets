@@ -1,1 +1,0 @@
-python\python\python.exe gamaterminal.py
